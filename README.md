@@ -21,7 +21,9 @@ CAESAR CIPHER :
 		after G is D.
 
 	So if we see the table of letters with a key of 3
-	
+		
+		
+		PLAIN		CIPHER
 		A	->	X
 		B	->	Y
 		C	->	Z
